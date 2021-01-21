@@ -42,10 +42,10 @@ We'll try to provide assistance to the best of our availability, but we can't gu
 
 ## GET INVOLVED
 
-Do you have experience in programming language and a basic knowledge of Lua?
+Do you have experience in programming languages and a basic knowledge of Lua?
 Do you want to get involved in the development of **SmartFlying**, **AMS** and tools for X-Plane?
 
-Please contact Pacrox (a.k.a. Captain Spaulding) here on Github or on [X-Pilot.org Forum](https://forums.x-pilot.com/profile/63882-captainspaulding/).
+Please contact Pacrox (a.k.a. Captain Spaulding) on [X-Pilot.org Forum](https://forums.x-pilot.com/profile/63882-captainspaulding/).
 
 
 ## SPECIAL THANKS
