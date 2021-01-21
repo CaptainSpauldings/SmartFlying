@@ -47,3 +47,11 @@ Do you want to get involved in the development of **SmartFlying**, **AMS** and t
 
 Please contact Pacrox (a.k.a. Captain Spaulding) here on Github or on [X-Pilot.org Forum](https://forums.x-pilot.com/profile/63882-captainspaulding/).
 
+
+## SPECIAL THANKS
+
+To **Roman**, the developer of SmartCopilot, for the help and the assistance provided.  
+To **Janek** for all the testing done needed for the development and the debugging.  
+To **Roger** for the technical help for the organization and the code portability.  
+To **Loborco** for the help on testing.
+
