@@ -3,7 +3,7 @@ an extension to make formation flight using **SmartCopilot**.
 
 ### Current version: 0.84a (21 Jan 2021)
 
-Please refer to **"SmartFlying-Readme.pdf"** for intallation instructions.
+Please refer to **"SmartFlying-Readme.pdf"** for installation instructions.
 
 ## LICENSE
 
