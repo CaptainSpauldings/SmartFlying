@@ -7,8 +7,8 @@ Please refer to **"SmartFlying-Readme.pdf"** for installation instructions.
 
 ## LICENSE
 
-**SmartFlying** , an extension to make formation flight using **SmartCopilot**.
-**AMS** , an **Advanced Library Package** for **FlyWithLua**.  
+**SmartFlying**, an extension to make formation flight using **SmartCopilot**.  
+**AMS**, an **Advanced Library Package** for **FlyWithLua**.  
 Copyright (C) 2020 Pasquale Croce  
 
 This program is free software: you can redistribute it and/or modify
