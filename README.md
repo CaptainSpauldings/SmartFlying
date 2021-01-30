@@ -33,8 +33,8 @@ Download [FlyWithLua](https://forums.x-plane.org/index.php?/files/file/38445-fly
 
 ## SUPPORT AND BUGS
 
-SmartFlying is **not** related to SmartCopilot. Ske4Crew will not provide assistance for problems related to SmartFlying.
-This software is provide as is, without any warranty nor support.
+SmartFlying is **not** related to SmartCopilot. Sky4Crew will not provide assistance for problems related to SmartFlying.
+This software is provided as is, without any warranty nor support.
 
 If you need help or you've found a bug, please open an issue on this repository and let us know.
 We'll try to provide assistance to the best of our availability, but we can't guarantee a fast and prompt reply.
