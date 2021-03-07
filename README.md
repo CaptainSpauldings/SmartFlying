@@ -1,6 +1,8 @@
 # SmartFlying
 an extension to make formation flight using **SmartCopilot**.
 
+Watch [SmartFlying Video.](https://www.youtube.com/watch?v=bW_JkPfH4wQ)
+
 ### Current version: 0.84a (21 Jan 2021)
 
 Please refer to **"SmartFlying-Readme.pdf"** for installation instructions.
