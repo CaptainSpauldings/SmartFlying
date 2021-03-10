@@ -1,5 +1,5 @@
 # SmartFlying
-an extension to make formation flight using **SmartCopilot**.
+an extension to make formation flights using **SmartCopilot**.
 
 [![SmartFlying YouTube](http://img.youtube.com/vi/bW_JkPfH4wQ/maxresdefault.jpg)](http://www.youtube.com/watch?v=bW_JkPfH4wQ "SmartFlying: Formation Flight for XPlane11 using SmartCopilot.")
 
